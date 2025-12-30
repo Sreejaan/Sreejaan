@@ -1,36 +1,53 @@
-Sreejan Gupta
-- Second-Year Postgraduate, CSE | IIT Gandhinagar
-- 📧 sreejan.24250093@iitgn.ac.in | 📱 +91 6356613056
-- [LinkedIn](https://www.linkedin.com/in/Sreejan/) | [GitHub](https://github.com/Sreejaan)
+<h1 align="center">Hi 👋, I'm Sreejan Gupta</h1>
+<h3 align="center">M.Tech CSE @ IIT Gandhinagar | Competitive Programmer | ML Enthusiast</h3>
 
 ---
 
-## Academic Details
-- M.Tech, CSE, IIT Gandhinagar | 2024-2026
-- B.Tech, CSE, NIT Kurukshetra | 2020-2024
+### 👨‍🎓 About Me
+- 🎓 M.Tech in Computer Science @ **IIT Gandhinagar (2024–2026)**
+- 💡 Interested in **Machine Learning, Backend Development, and Competitive Programming**
+- 🧠 Working on **Dyslexia Detection using Eye-Tracking Data**
+- 🚀 Actively improving **DSA + System Design**
+- 📫 Reach me at **sreejangupta9@gmail.com** , **LinkedIn:** https://www.linkedin.com/in/Sreejaan/
+---
+
+## 🎓 Academic Background
+- **M.Tech in Computer Science & Engineering** — *IIT Gandhinagar* (2024 – 2026)  
+- **B.Tech in Computer Science & Engineering** — *NIT Kurukshetra* (2020 – 2024)  
 
 ---
 
-## GOLD Projects
-- **Dyslexia Detection using Eye-Tracking Data**: ML pipeline to classify dyslexic vs. non-dyslexic readers. Accuracy: 92.86% (Python, scikit-learn, Jupyter).  
-- **Dyslexia Helper Browser Extension**: Customizable fonts + text-to-speech for dyslexic users (JS, Chrome Extensions API).  
-- **College Navigation for IITGN**: Web app with indoor/outdoor routes, Google Maps integration (Django, Bootstrap, Render).  
+## 🚀 Featured (GOLD) Projects
+- **🧠 Dyslexia Detection using Eye-Tracking Data**  
+  Machine learning pipeline to classify dyslexic vs non-dyslexic readers using gaze and pupil features.  
+  **Accuracy:** 92.86%  
+  **Tech:** Python, scikit-learn, Jupyter Notebook  
+
+- **🌐 Dyslexia Helper Browser Extension**  
+  Chrome extension offering dyslexia-friendly fonts, layout customization, and text-to-speech support.  
+  **Tech:** JavaScript, Chrome Extensions API  
+
+- **🗺️ IIT Gandhinagar College Navigation System**  
+  Web application for indoor and outdoor campus navigation with Google Maps integration.  
+  **Tech:** Django, Bootstrap, Render  
 
 ---
 
-## Skills
+## 🛠️ Technical Skills
 - **Languages:** C++, Python, JavaScript, HTML, CSS  
-- **Frameworks:** Django, React, Bootstrap, scikit-learn  
-- **Tools:** Git, VS Code, Jupyter Notebook, Render  
+- **Frameworks & Libraries:** Django, React, Bootstrap, scikit-learn  
+- **Tools & Platforms:** Git, VS Code, Jupyter Notebook, Render  
 
 ---
 
-## Achievements
-- Rank 1 in Coding Night 3.0, IIT Gandhinagar.  
-- Max Ratings — LeetCode: 2036 | Codeforces: 1590 | CodeChef: 1725.  
-- 99.47 percentile in JEE Mains (AIR 5923).
+## 🏆 Achievements
+- 🥇 **Rank 1**, Coding Night 3.0 — IIT Gandhinagar  
+- 💻 **Competitive Programming Ratings**  
+  - LeetCode: **2036**  
+  - Codeforces: **1590**  
+  - CodeChef: **1725**  
+- 📊 **JEE Mains:** 99.47 percentile (AIR 5923)  
 
 ---
 
-## Extra-Curricular
-- **YouTube:** Sreejan ji Vlogs — College life, competitive programming tips, and DSA tutorials.
+⭐ *Always open to collaboration, learning, and challenging problem statements.*
