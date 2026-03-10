@@ -12,8 +12,8 @@
 ---
 
 ## 🎓 Academic Background
-- **M.Tech in Computer Science & Engineering** — *IIT Gandhinagar* (2024 – 2026)  
-- **B.Tech in Computer Science & Engineering** — *NIT Kurukshetra* (2020 – 2024)  
+- **M.Tech in Computer Science & Engineering** — *IIT Gandhinagar* 
+- **B.Tech in Computer Science & Engineering** — *NIT Kurukshetra*
 
 ---
 
