@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 M.Tech in Computer Science @ **IIT Gandhinagar (2024–2026)**
+- 🎓 M.Tech in Computer Science @ **IIT Gandhinagar**
 - 💡 Interested in **Machine Learning, Backend Development, and Competitive Programming**
 - 🧠 Working on **Dyslexia Detection using Eye-Tracking Data**
 - 🚀 Actively improving **DSA + System Design**
